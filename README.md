@@ -1,1 +1,1 @@
-TinDog Starting Files
+Tingog web landing page
